@@ -5,3 +5,4 @@ belajar fundamental
 belajar fremwork js
 belajar laravel
 belajar python
+beljar react
