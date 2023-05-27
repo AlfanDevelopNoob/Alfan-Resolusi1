@@ -1,3 +1,4 @@
 rencana belajar
 belajar node js
 belajar bootstsrap
+belajar fundamental
