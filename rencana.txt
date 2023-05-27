@@ -2,3 +2,7 @@ rencana belajar
 belajar node js
 belajar bootstsrap
 belajar fundamental
+belajar fremwork js
+belajar laravel
+belajar python
+beljar react
